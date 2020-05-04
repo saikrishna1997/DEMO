@@ -1,6 +1,7 @@
-package test.main;
+package src.main.java.test.main;
 
-import test.abc.Add;
+import src.main.java.test.abc.Add;
+import src.main.java.test.krishna.Subtraction;
 
 public class main {
 
@@ -10,7 +11,10 @@ public class main {
 		int x=10,y=20;
 		
 		Add obj =new Add();
+		Subtraction obj1=new Subtraction();
+		
 		obj.add(x, y);
+		obj1.sub(x, y);
 	}
 
 }

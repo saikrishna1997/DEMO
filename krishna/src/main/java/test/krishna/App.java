@@ -1,4 +1,4 @@
-package test.krishna;
+package src.main.java.test.krishna;
 
 /**
  * Hello world!

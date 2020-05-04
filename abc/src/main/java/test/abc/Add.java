@@ -1,4 +1,4 @@
-package test.abc;
+package src.main.java.test.abc;
 
 public class Add {
 
