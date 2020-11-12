@@ -1,0 +1,542 @@
+
+  
+Org_Id:
+  "2744":
+     Responsibility: "XXASO_QUOTE_DMC"
+     RespApplication: "ASO"
+     SecurityGroup: "STANDARD"
+     NLSLanguage: "AMERICAN"
+     Language: "EN"
+     OrgId: "2744"
+     Process_Id: "B2C_ASO_DoAtpCheckWscToOgsiV1"
+     ISGHEADER_AGN: "566"
+     
+  "661":
+     Responsibility: "XXASO_QUOTING_ADMIN_LLLP"
+     RespApplication: "ASO"
+     SecurityGroup: "STANDARD"
+     NLSLanguage: "AMERICAN"
+     Language: "EN"
+     OrgId: "661"
+     Process_Id: "B2C_ASO_DoAtpCheckWscToOgsiV1"
+     ISGHEADER_AGN: "567"
+     
+  "6281":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_GB"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:6281
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN":568   
+     
+  "4488":
+    Responsibility:"XXASO_QUOTING_SALES_MGR_VAH_VA"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:4488
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:569
+   
+  "6421":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_IE"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:6421
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:570
+    
+  "8946":
+    Responsibility:"XXASO_QUOTING_SALES_MGR_MUM_IN"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:8946
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:571
+    
+  "6941":
+    Responsibility:"XXASO_QUOTING_SLS_MGR_SEN_KR"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:6941
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:572
+    
+  "10107":
+    Responsibility:"XXASO_QUOTING_SLS_MGR_JPSO_JP"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:10107
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN":573
+    
+  "4651":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_MY"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language":"EN"
+    Org_Id:4651
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:574
+    
+  "8046":
+    Responsibility:"XXASO_QUOTING_SALES_MGR_BKK_TH"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:8046
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN":575
+    
+  "8101":
+    Responsibility:"XXASO_QUOTING_SALES_MGR_HCM_VN"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:8101
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:576
+    
+  "5225":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_NZ"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:5225
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN":577
+    
+  "7926":
+    Responsibility:"XXASO_QUOTING_SALES_MGR_VAZ_VA"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:7926
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:578
+    
+  "5259":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGERNLS"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:5259
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:579
+    
+  "5221":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_AU"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:5221
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN":580
+    
+  "9082":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_SG"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:9082
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:581
+    
+  "7165":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_DE"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:7165
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:582
+    
+  "4511":
+    Responsibility:"XXASO_QUOTING_SALES_MGR_VAG_VA"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:4511
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:583
+    
+  "5701":
+    Responsibility:"XXASO_QUOTING_SALES_MGR_PVG_CN"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:5701
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:584
+    
+  "15204": 
+    Responsibility:"XXASO_QUO_SALES_MGR_ISV_USA"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:15204
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:799
+    
+  "2336":
+    Responsibility:"XXASO_QUOTING_SALESMANAGER_MEX"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:2336
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:809
+    
+  "2766":
+    Responsibility:"XXOM_SETUP_INQUIRY_LQD"
+    RespApplication:"ONT"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:2766
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:817
+    
+  "1524":
+    Responsibility:"XXONT_ONT_ADMIN_USER_REG"
+    RespApplication:"ONT"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:1524
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:778
+    
+  "8054":
+    Responsibility:"XXASO_QUOTING_SALES_AGENT_ESSO"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:8054
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:854
+    
+  "9287":
+    Responsibility:"XXASO_QUOTING_SALES_AGENT_BESO"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:9287
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:853
+    
+  "8266":
+    Responsibility:"XXASO_QUOTING_SALES_AGENT_FRSO"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:8266
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:850
+    
+  "8530":
+    Responsibility:"XXASO_QUOTING_SALES_AGENT_ITSO"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:8530
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:851
+    
+  "2765":
+    Responsibility:"XXOM_ORDER_ENTRY_USER_PAD"
+    RespApplication:"ONT"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:2765
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:852
+    
+  "281":
+    Responsibility:"XXASO_QUOTING_MMI"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:281
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:735
+    
+  "2763":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_VA"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:2763
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:736
+    
+  "4150":
+    Responsibility:"XXASO_QUOTING_MGR_RMD"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:4150
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:737
+    
+  "763":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_AR"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:763
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:983
+    
+  "5241":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_AT"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:5241
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:984
+    
+  "10452":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_AZ"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:10452
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:985
+    
+  "4719":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_BR"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:4719
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:986
+    
+  "9046":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_CH"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:9046
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:987
+    
+  "4068":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_CL"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:4068
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:988
+    
+  "7486":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_CZ"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:7486
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:989
+    
+  "6761":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_DK"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:6761
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:990
+    
+  "4195":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_FI"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:4195
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:991
+    
+  "9051":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_HR"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:9051
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:992
+    
+  "4622":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_HS"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:4622
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:993
+    
+  "13068":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_KZ"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:13068
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:995
+    
+  "4575":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_NO"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:4575
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN":996
+    
+  "12852":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_PE"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:12852
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:997
+    
+  "5320":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_PR"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:5320
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:998
+    
+  "4190":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_PL"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:4190
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:999
+    
+  "8060":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_PT"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:8060
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:1000
+    
+  "7491":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_RO"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:7491
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:1001
+    
+  "13063":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_RU"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:13063
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:1002
+    
+  "6741":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_SE"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:6741
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:1003
+    
+  "7824":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_SK"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:7824
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:1004
+    
+  "10447":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_TR"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:10447
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:1005
+    
+  "13066":
+    Responsibility:"XXASO_QUOTING_SALES_MANAGER_UA"
+    RespApplication:"ASO"
+    SecurityGroup:"STANDARD"
+    NLSLanguage:"AMERICAN"
+    Language:"EN"
+    Org_Id:13066
+    Process_Id:"B2C_ASO_DoAtpCheckWscToOgsiV1"
+    ISGHEADER_AGN:1006
